@@ -23,7 +23,7 @@ Small-business cybersecurity does not have to begin with expensive tools. Clear 
 
 Articles will be added here as the series grows.
 
-- [Rule #1: Implement a Password Manager](rule-1-implement-a-password-manager.md)
+- [Rule #1: Implement a Password Manager](rule-1-password-manager.md)
 - [Stronger Authentication Is Great... Until You Lose Your Phone](stronger-authentication-until-you-lose-your-phone.md)
 - [Everyone Thought Someone Else Was Handling Cybersecurity](everyone-thought-someone-else-was-handling-cybersecurity.md)
 - [Your Former Employee May Still Have the Keys](your-former-employee-may-still-have-the-keys.md)
