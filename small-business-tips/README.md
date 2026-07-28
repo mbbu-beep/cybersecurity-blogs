@@ -8,3 +8,4 @@ These articles focus on realistic steps that improve security without requiring 
 
 - [Stronger Authentication Is Great—Until You Lose Your Phone](stronger-authentication-until-you-lose-your-phone.md)
 - [Everyone Thought Someone Else Was Handling Cybersecurity](everyone-thought-someone-else-was-handling-cybersecurity.md)
+- [Your Former Employee May Still Have the Keys](your-former-employee-may-still-have-the-keys.md)
