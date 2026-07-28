@@ -1,4 +1,4 @@
-# Stronger Authentication Is Great—Until You Lose Your Phone
+# Stronger Authentication Is Great... Until You Lose Your Phone
 
 Most cybersecurity advice stops at: 
 
