@@ -10,4 +10,3 @@ These articles focus on realistic steps that improve security without requiring 
 - [Everyone Thought Someone Else Was Handling Cybersecurity](everyone-thought-someone-else-was-handling-cybersecurity.md)
 - [Your Former Employee May Still Have the Keys](your-former-employee-may-still-have-the-keys.md)
 - [Rule #1: Implement a Password Manager](rule-1-password-manager.md)
-- 
