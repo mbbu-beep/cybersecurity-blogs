@@ -1,7 +1,7 @@
 # cybersecurity-blogs
 My collection of cybersecurity articles, project reflections, and practical guides covering SIEM, SOC operations, identity and access management, cloud security, authentication, and small-business security.
 
-## Contents:
+## Contents
 
 ### Personal Cybersecurity
 
