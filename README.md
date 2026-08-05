@@ -23,11 +23,11 @@ The goal is to make cybersecurity easier to understand, easier to apply, and mor
 
 ## Blog Sections
 
-### 👤 Personal Cybersecurity
+### 👤 [Personal Cybersecurity](personal-cybersecurity/README.md)
 
 Guidance for protecting personal accounts, family devices, privacy, finances, and everyday digital life.
 
-### 🏢 Small-Business Cybersecurity
+### 🏢 [Small-Business Cybersecurity](small-business-security/README.md)
 
 Practical security recommendations for small organizations that may not have dedicated IT or cybersecurity staff.
 
@@ -35,7 +35,7 @@ Practical security recommendations for small organizations that may not have ded
 
 Clear explanations of security concepts, tools, risks, and terminology for readers without a technical background.
 
-### 📰 Security Watch
+### 📰 [Security Watch](security-watch/README.md)
 
 Thoughts and analysis on evolving cybersecurity practices, identity technology, industry changes, and emerging threats.
 
