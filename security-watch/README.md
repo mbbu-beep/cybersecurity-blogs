@@ -11,11 +11,4 @@ This section looks at those changes from a practical perspective to determine wh
 
 ## What You’ll Find Here
 
-* Cybersecurity news and industry developments
-* Passwordless authentication, passkeys, and identity technology
-* Changes to security tools and recommended practices
-* Emerging threats, scams, and attack methods
-* Privacy concerns and data-protection issues
-* Security incidents and lessons learned
-* New technology and its potential risks
-* Commentary on where cybersecurity may be heading
+- [Passkeys Are Becoming the Default](passkeys-will-be-new-norm.md)
