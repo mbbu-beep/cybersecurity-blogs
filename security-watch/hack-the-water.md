@@ -4,7 +4,7 @@ Most people imagine a cyberattack as stolen passwords, leaked Social Security nu
 
 #### [The FBI issued a Public Service Announcement on July 30, 2026](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions) to warn critical infrastructure asset owners and operators that malicious cyber actors (MCAs) are conducting cyber attacks targeting Operational Technology (OT) devices.
 
-After remotely accessing internet-facing devices, the actors **changed the IP addresses and passwords, resulting in a loss of monitoring and control functionality.**
+> After remotely accessing internet-facing devices, the actors **changed the IP addresses and passwords, resulting in a loss of monitoring and control functionality.**
 
 ## 🏃🏻‍♀️‍➡️Act Now!
 > [!IMPORTANT]
