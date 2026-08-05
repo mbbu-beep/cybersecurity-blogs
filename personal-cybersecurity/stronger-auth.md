@@ -6,7 +6,7 @@
   </tr>
 </table>
 
-Most people find the answer to this question the hard way:
+#### Most people find the answer to this question the hard way:
 
 > **What happens if the phone holding your authentication method is lost, broken, replaced, or reset?**
 
