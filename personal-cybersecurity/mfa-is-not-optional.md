@@ -64,4 +64,4 @@ This article is for general educational purposes. Security features and recommen
 
 *Written by Molly Ussery | Last updated: 8/5/2026*
 
-**Quick Links:** *| [Senior Project Demo](documentation/video-demo.md) | [Personal Cybersecurity Blogs](personal-cybersecurity/README.md) | [Business Cybersecurity Blogs] |*
+**Quick Links:** *| [Senior Project Demo](documentation/video-demo.md) | [Personal Cybersecurity Blogs](personal-cybersecurity/README.md) | [Business Cybersecurity Blogs](small-business-tips/README.md) |*
