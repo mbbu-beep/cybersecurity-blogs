@@ -6,7 +6,7 @@ That usually leads to weak passwords, reused passwords, or passwords saved somew
 
 #### A password manager solves that problem.
 
-> [!TIP]
+> [!IMPORTANT]
 > Choose a password manager and use it to secure your email account first
 
 ## What Does It Do?
