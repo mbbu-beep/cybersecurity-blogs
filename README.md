@@ -31,7 +31,7 @@ Guidance for protecting personal accounts, family devices, privacy, finances, an
 
 Practical security recommendations for small organizations that may not have dedicated IT or cybersecurity staff.
 
-### 💡 Cybersecurity Explained
+### 💡 [Cybersecurity Unlocked](cybersecurity-unlocked/README.md)
 
 Clear explanations of security concepts, tools, risks, and terminology for readers without a technical background.
 
