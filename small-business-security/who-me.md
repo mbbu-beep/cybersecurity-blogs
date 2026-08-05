@@ -15,7 +15,7 @@ Even when a formal plan is not required, every business needs one person respons
 
 ## One Simple Goal
 
-> [!TIP]
+> [!IMPORTANT]
 > Before the end of the week, **choose one person** to be the business’s cybersecurity point of contact.
 
 *They do not have to fix every technical problem.* They only need to know:
