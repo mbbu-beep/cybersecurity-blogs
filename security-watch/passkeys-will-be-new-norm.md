@@ -2,7 +2,7 @@
 
 Starting **September 1, 2026**, Microsoft will **make passkeys the default authentication experience** for many Microsoft Entra users who currently rely on text messages or voice calls for verification.
 
-[Click here to read the announcement from Microsoft](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-sms-voice-retirement)
+[Click here to read the announcement from Microsoft](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-sms-voice-retirement).
 
 ## What Is a Passkey? 
 
