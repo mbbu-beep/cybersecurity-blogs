@@ -8,9 +8,4 @@ No long lectures. No assumption that you already understand the terminology. Jus
 
 ## What You’ll Find Here
 
-- Short, plain-English security explanations
-- Quick steps you can take immediately
-- Common cybersecurity terms decoded
-- Mistakes that put accounts and devices at risk
-- Helpful videos and visual examples when they explain it better
-- Links to more detailed guidance when you are ready for the next step
+- [Why Everyone Needs a Password Manager](cybersecurity-unlocked/why-everyone-needs.md)
