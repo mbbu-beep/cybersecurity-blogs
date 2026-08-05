@@ -63,3 +63,5 @@ People lose phones, change numbers, replace devices, or accidentally delete auth
 This article is for general educational purposes. Security features and recommendations may change over time.
 
 *Written by Molly Ussery | Last updated: 8/5/2026*
+
+**Quick Links:** *| [Senior Project Demo](documentation/video-demo.md) | [Personal Cybersecurity Blogs](personal-cybersecurity/README.md) | [Business Cybersecurity Blogs] |*
