@@ -36,7 +36,21 @@ A practical setup could include:
 - A passkey, security key, or authenticator app 
 - Recovery codes stored somewhere secure
 
+> [!IMPORTANT]
+## What You Can Do Now 
+- Implement a password manager to ensure all passwords are unique and random
+- Turn on MFA for your email, financial, social media, and work accounts.
+- Choose an authenticator app, passkey, or security key when available.
+- Add at least one secure backup method.
 
-> [!NOTE]
-> This article is for general educational purposes and reflects the information available as of **August 2026**. Security features and recommendations may change over time.
-*Written by Molly Ussery*
+Save your recovery codes somewhere safe and separate from the account. 
+
+> Do not wait until an account is compromised to find out whether your recovery options work.
+ 
+ 
+ 
+ 
+ 
+### About This Article
+This article is for general educational purposes. Security features and recommendations may change over time.
+*Written by Molly Ussery | Last updated: 8/5/2026*
