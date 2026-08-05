@@ -11,7 +11,7 @@ A former employee may still be able to reach company email, shared files, payrol
 
 ## One Simple Goal
 
->[!TIP]
+> [!IMPORTANT]
 >Create a one-page offboarding checklist and use it every time someone leaves.
 
 At minimum:
