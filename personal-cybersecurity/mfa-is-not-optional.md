@@ -1,5 +1,12 @@
 # MFA Is Not Optional; But One Method Is Not Enough
-A password is no longer enough to protect an important account. Passwords can be leaked, guessed, or stolen but MFA adds another barrier for an attacker.
+<table>
+  <tr>
+    <td><strong>TL;DR:</strong></td>
+    <td>Multifactor authentication can stop a stolen password from becoming a stolen account, but some methods are stronger than others. Use the strongest option available and keep a backup method in case you lose access.</td>
+  </tr>
+</table>
+
+Passwords can be leaked, guessed, or stolen but MFA adds another barrier for an attacker.
 
 *Bottom line:* You will be protected because even if an attacker has your password, they may still be stopped because they do not have your phone, authenticator app, security key, fingerprint, or passkey. 
 
