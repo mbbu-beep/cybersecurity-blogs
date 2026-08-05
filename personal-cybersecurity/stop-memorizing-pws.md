@@ -1,4 +1,10 @@
 # Stop Memorizing Passwords: Use a Password Manager
+<table>
+  <tr>
+    <td><strong>TL;DR:</strong></td>
+    <td>You do not need to memorize a different strong password for every account. A password manager can create, store, and fill them in for you while helping prevent dangerous password reuse.</td>
+  </tr>
+</table>
 
 The advice to use a strong, unique password for every account is correct. However, it is unrealistic to manage dozens of them.
 
