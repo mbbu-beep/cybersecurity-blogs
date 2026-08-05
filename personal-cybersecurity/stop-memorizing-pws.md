@@ -9,6 +9,15 @@ That is why people fall into familiar habits of reusing the same password, savin
 > The problem is not that you need a better memory.
 > The problem is that your memory should not be responsible for protecting every account you own.
 
+
+## One Simple Goal
+
+> [!TIP]
+> Choose a reputable password manager and replace the passwords on your five most important accounts with unique passwords this week.
+> **I recommend [Keeper](https://www.keepersecurity.com/), [Bitwarden](https://vault.bitwarden.com/#/login), or [LastPass](https://lastpass.com/login/?lpnorefresh=1)!**
+
+
+
 ## Let a Password Manager Do the Remembering
 
 A password manager stores your passwords in a **protected vault.** It can also generate long, random passwords and fill them in *when you need them.*
@@ -22,7 +31,7 @@ That master passphrase should:
 - Never be used on another account
 - Be memorable to you but difficult for someone else to guess
 
-Turn on multifactor authentication for your password manager and securely save any recovery information it provides.
+[Turn on multifactor authentication](personal-cybersecurity/mfa-is-not-optional.md) for your password manager and securely save any recovery information it provides.
 
 > [!IMPORTANT]
 > Do not store your only recovery method somewhere that you cannot access without first opening the password manager.
@@ -60,15 +69,9 @@ The goal is not perfect security.
 
 The goal is to stop one weak, guessed, or reused password from exposing several parts of your life.
 
-## One Simple Goal
 
-> [!TIP]
-> Choose a reputable password manager and replace the passwords on your five most important accounts with unique passwords this week.
-> **I recommend [Keeper](https://www.keepersecurity.com/), [Bitwarden](https://vault.bitwarden.com/#/login), or [LastPass](https://lastpass.com/login/?lpnorefresh=1)!**
 
-You do not need to memorize more passwords.
 
-You need a safer system for managing them.
 
 ## Sources and Further Reading
 
