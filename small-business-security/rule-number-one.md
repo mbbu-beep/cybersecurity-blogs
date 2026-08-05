@@ -41,3 +41,16 @@ The goal is simple:
 > **One password manager, individual user accounts, and no critical passwords living in texts, emails, or sticky notes.**
 
 That one change makes offboarding easier, improves accountability, and removes one of the most common weaknesses in small-business security.
+
+
+
+
+---
+### About This Article
+
+*This article is for general educational purposes. Security features and recommendations may change over time.*
+
+Written by Molly Ussery | Last updated: 8/5/2026
+
+
+🔑 **Quick Links** *| [Senior Project Demo](https://github.com/mbbu-beep/splunk-snort-soc-lab/blob/main/documentation/video-demo.md) | [Cybersecurity UNLOCKED](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/cybersecurity-unlocked) | [Personal Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/personal-cybersecurity) | [Business Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/small-business-security) | [Security Watch](../security-watch/README.md) |* 🔒
