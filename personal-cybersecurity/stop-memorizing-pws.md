@@ -31,7 +31,7 @@ That master passphrase should:
 - Never be used on another account
 - Be memorable to you but difficult for someone else to guess
 
-[Turn on multifactor authentication](https://github.com/mbbu-beep/cybersecurity-blogs/blob/main/personal-cybersecurity/mfa-is-not-optional.md) for your password manager and securely save any recovery information it provides.
+**[Turn on multifactor authentication](https://github.com/mbbu-beep/cybersecurity-blogs/blob/main/personal-cybersecurity/mfa-is-not-optional.md)** for your password manager and securely save any recovery information it provides.
 
 > [!IMPORTANT]
 > Do not store your only recovery method somewhere that you cannot access without first opening the password manager.
@@ -65,17 +65,11 @@ You still need to:
 - Review security alerts
 - Maintain a tested recovery method
 
-The goal is not perfect security.
-
-The goal is to stop one weak, guessed, or reused password from exposing several parts of your life.
-
-
 
 
 
 ## Sources and Further Reading
 
-- [CISA: Use Strong Passwords](https://www.cisa.gov/secure-our-world/use-strong-passwords)
 - [NIST: How Do I Create a Good Password?](https://www.nist.gov/cybersecurity-and-privacy/how-do-i-create-good-password)
 
 
