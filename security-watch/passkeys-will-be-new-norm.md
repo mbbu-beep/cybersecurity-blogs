@@ -1,14 +1,10 @@
 # Passkeys Are Becoming the Default
 
-##### Here’s What to Know
-Passwords are not disappearing overnight, but the shift away from them is becoming harder to ignore.
+Starting **September 1, 2026**, Microsoft will **make passkeys the default authentication experience** for many Microsoft Entra users who currently rely on text messages or voice calls for verification.
 
-Starting **September 1, 2026**, Microsoft will make passkeys the default authentication experience for many Microsoft Entra users who currently rely on text messages or voice calls for verification.
+[Click here to read the announcement from Microsoft](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-sms-voice-retirement)
 
-> [!IMPORTANT]
-> When an account offers you a passkey, take a moment to set it up—but keep your recovery information and backup sign-in methods updated too.
-
-## What Is a Passkey?
+## What Is a Passkey? 
 
 A passkey lets you sign in using the same method you use to unlock your device:
 
@@ -19,16 +15,12 @@ A passkey lets you sign in using the same method you use to unlock your device:
 
 Behind the scenes, it uses a unique cryptographic credential instead of a password that can be guessed, reused, or stolen from a fake login page. Passkeys are connected to the legitimate website or app they were created for, which makes them resistant to traditional phishing attacks.
 
+> [!TIP]
+> When an account offers you a passkey, take a moment to set it up—but keep your recovery information and backup sign-in methods updated too.
+
 ## Why Are Companies Pushing Passkeys?
 
-Passwords create several familiar problems:
-
-* People reuse them
-* Data breaches expose them
-* Scammers steal them through phishing
-* Verification codes can also be intercepted or tricked out of users
-
-Apple, Google, and Microsoft already support passkeys, and Microsoft’s upcoming change shows that companies are beginning to make them the expected choice rather than an optional extra.
+Passwords create several familiar problems. Apple, Google, and Microsoft already support passkeys, and Microsoft’s upcoming change shows that companies are beginning to make them the expected choice rather than an optional extra.
 
 ## Before You Create One
 
@@ -42,14 +34,6 @@ Also make sure you know:
 * Whether your passkeys sync between devices
 * What recovery methods are available
 * How to remove access from a lost or replaced device
-
-## The Bottom Line
-
-Passkeys can make signing in both easier and safer, especially against phishing.
-
-You do not need to understand all the technology behind them. You do need to know where your passkeys are stored and how you would recover your account if your phone or computer were lost.
-
-Passwords are not gone yet. However, passkeys are quickly becoming part of everyday account security.
 
 
 
