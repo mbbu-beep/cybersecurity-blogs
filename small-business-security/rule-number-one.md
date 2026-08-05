@@ -10,7 +10,7 @@ They are written on sticky notes, sent through text messages, saved in spreadshe
 
 A business password manager gives you one secure place to store credentials, control access, and remove users when they no longer need it.
 
->[!TIP]
+> [!NOTE]
 >Try a few and see which one you like the best🎉 I recommend [Bitwarden](https://vault.bitwarden.com/#/login), [Keeper](https://keepersecurity.com/vault/#), or [LastPass](https://lastpass.com/login/?lpnorefresh=1)!
 
 
