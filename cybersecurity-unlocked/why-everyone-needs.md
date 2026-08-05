@@ -4,9 +4,10 @@ Most people have too many accounts to remember a different strong password for e
 
 That usually leads to weak passwords, reused passwords, or passwords saved somewhere unsafe.
 
-A password manager solves that problem.
+#### A password manager solves that problem.
 
-> Choose a password manager and use it to secure your email account first!
+> [!TIP]
+> Choose a password manager and use it to secure your email account first
 
 ## What Does It Do?
 
@@ -23,7 +24,7 @@ You only need to remember **one strong master password.**
 
 When one website is breached, attackers often try the stolen password on other accounts.
 
-If you reused that password, one breach could expose your email, social media, shopping, or financial accounts.
+##### If you reused that password, one breach could expose your email, social media, shopping, or financial accounts.
 
 Using a unique password for every account limits the damage.
 
@@ -32,11 +33,11 @@ Using a unique password for every account limits the damage.
 Choose a reputable password manager, create a long master password, and turn on multifactor authentication.
 
 > [!TIP]
-> You do not have to change every password at once. Start with your email, banking, and other important accounts, then update the rest over time.
+> Do not overwhelm yourself! Start with your email, banking, and other important accounts, then update the rest over time.
 
 ## The Bottom Line
 
-Password managers are not just for cybersecurity professionals.
+##### Password managers are not just for cybersecurity professionals.
 
 They make strong, unique passwords realistic for everyone.
 
