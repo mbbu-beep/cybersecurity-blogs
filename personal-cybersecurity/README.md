@@ -11,4 +11,5 @@ The goal is not to make your digital life complicated. It is to help you underst
 ## What You’ll Find Here
 
 - [MFA Is Not Optional; But One Method Is Not Enough](mfa-is-not-optional.md)
-- 
+- [Stop Memorizing Passwords: Use a Password Manager](stop-memorizing-pws.md)
+- [Stronger Authentication Is Great... Until You Lose Your Phone](stronger-auth.md)
