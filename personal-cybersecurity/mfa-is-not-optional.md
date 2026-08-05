@@ -1,15 +1,15 @@
 # MFA Is Not Optional; But One Method Is Not Enough
 A password is no longer enough to protect an important account. Passwords can be leaked, guessed, or stolen but MFA adds another barrier for an attacker.
 
-Bottom line: You will be protected because even if an attacker has your password, they may still be stopped because they do not have your phone, authenticator app, security key, fingerprint, or passkey. 
+*Bottom line:* You will be protected because even if an attacker has your password, they may still be stopped because they do not have your phone, authenticator app, security key, fingerprint, or passkey. 
 
 > That extra step can be the difference between a stolen password and an account you get locked out of.
 
 ## What Counts as MFA?
 MFA requires more than one type of proof:
-- Something you know: a password or PIN
-- Something you have: a phone, authenticator app, passkey, or security key
-- Something you are: a fingerprint or facial scan
+- Something you *know*: a password or PIN
+- Something you *have*: a phone, authenticator app, passkey, or security key
+- Something you *are*: a fingerprint or facial scan
 
 
 | MFA Method | P R O S | C O N S |
@@ -22,19 +22,25 @@ MFA requires more than one type of proof:
 | **Physical security keys** | Very strong protection against phishing | Can be lost, damaged, or inconvenient to carry |
 | **Biometrics** | Quick and difficult for someone else to copy casually | Usually depends on the security of the device and needs a backup method |
 
+ 
 > [!CAUTION]
-> Not every MFA method provides the same level of protection. Also, two passwords do not count as MFA because they are both the same type of proof. 
+> Not every MFA method provides the same level of protection.
+> Also, two passwords do not count as MFA because they are both the same type of proof. 
 
 ## One MFA method may not be enough
 
 People lose phones, change numbers, replace devices, or accidentally delete authenticator apps. Depending on only one method can lock the legitimate owner out of the account. 
 
-Solution: Use a primary method and a backup
+> *Solution*: Use a primary method and a backup
 
 A practical setup could include:
 - Your current email and phone number
-- A passkey, security key, or authenticator app 
+- A passkey, security key, or authenticator app
 - Recovery codes stored somewhere secure
+
+### Did you know?
+
+Did you know that you can add passkeys to your password manager? Simple!
 
 > [!IMPORTANT]
 ## What You Can Do Now 
