@@ -32,7 +32,7 @@ Apple, Google, and Microsoft already support passkeys, and Microsoft’s upcomin
 
 ## Before You Create One
 
-Pay attention to where the passkey will be stored.
+#### Pay attention to where the passkey will be stored.
 
 Depending on your device and settings, it may be saved through Apple Passwords and iCloud Keychain, Google Password Manager, Microsoft Authenticator, Windows, another password manager, or a physical security key.
 
@@ -49,7 +49,7 @@ Passkeys can make signing in both easier and safer, especially against phishing.
 
 You do not need to understand all the technology behind them. You do need to know where your passkeys are stored and how you would recover your account if your phone or computer were lost.
 
-Passwords are not gone yet—but passkeys are quickly becoming part of everyday account security.
+Passwords are not gone yet. However, passkeys are quickly becoming part of everyday account security.
 
 
 
