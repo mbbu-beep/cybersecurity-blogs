@@ -31,3 +31,15 @@ The ability to switch to manual operation became an important safeguard. The FBI
 - AP News: [Cyberattacks on Minnesota water systems investigated as officials warn about Iranian hackers](https://apnews.com/article/cyberattack-minnesota-water-systems-5bb1dcbaab8e3231889700c38a21e8ea)
 - MPR News: [Cyberattack targets Minnesota cities' water systems](https://www.mprnews.org/story/2026/07/28/30-minnesota-municipal-water-systems-targeted-cyberattack)
   
+
+
+
+---
+### About This Article
+
+*This article is for general educational purposes. Security features and recommendations may change over time.*
+
+Written by Molly Ussery | Last updated: 8/5/2026
+
+
+🔑 **Quick Links** *| [Senior Project Demo](https://github.com/mbbu-beep/splunk-snort-soc-lab/blob/main/documentation/video-demo.md) | [Cybersecurity UNLOCKED](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/cybersecurity-unlocked) | [Personal Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/personal-cybersecurity) | [Business Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/small-business-security) | [Security Watch](../security-watch/README.md) |* 🔒
