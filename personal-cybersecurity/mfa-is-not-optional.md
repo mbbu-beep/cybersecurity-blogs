@@ -64,4 +64,6 @@ This article is for general educational purposes. Security features and recommen
 
 *Written by Molly Ussery | Last updated: 8/5/2026*
 
-**Quick Links:** *| [Senior Project Demo](documentation/video-demo.md) | [Personal Cybersecurity Blogs](personal-cybersecurity/README.md) | [Business Cybersecurity Blogs](small-business-tips/README.md) |*
+---
+
+🔑 **Quick Links** *| [Senior Project Demo](https://github.com/mbbu-beep/splunk-snort-soc-lab) | [Cybersecurity UNLOCKED](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/cybersecurity-unlocked) | [Personal Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/personal-cybersecurity) | [Business Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/small-business-security) |* 🔒
