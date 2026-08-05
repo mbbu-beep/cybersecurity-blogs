@@ -1,19 +1,45 @@
-# cybersecurity-blogs
-My collection of cybersecurity articles, project reflections, and practical guides covering SIEM, SOC operations, identity and access management, cloud security, authentication, and small-business security.
+# 🔐 Cybersecurity Blogs
 
-## Contents
+### Practical cybersecurity guidance, explanations, and insights for everyday users and small organizations.
 
-### Personal Cybersecurity
+Cybersecurity affects nearly every part of modern life, from the accounts we use every day to the systems businesses rely on to operate.
 
-- [Personal Cybersecurity Overview](personal-cybersecurity/README.md)
-- [Stop Memorizing Passwords: Use a Password Manager](personal-cybersecurity/stop-memorizing-pws.md)
-- [MFA Is Not Optional; But One Method Is Not Enough](personal-cybersecurity/mfa-is-not-optional.md)
-- [One Stolen Password Should Not Ruin Your Life](personal-cybersecurity/one-stolen-pw.md)
+This repository contains approachable articles about protecting accounts, devices, data, and organizations without relying on unnecessary technical jargon or fear-based messaging.
 
-### Small-Business Security
+The goal is to make cybersecurity easier to understand, easier to apply, and more realistic for people who may not have a dedicated security team.
 
-- [Small-Business Security Overview](small-business-tips/README.md)
-- [Rule #1: Implement a Password Manager](small-business-tips/rule-1-password-manager.md)
-- [Stronger Authentication Is Great... Until You Lose Your Phone](small-business-tips/stronger-authentication-until-you-lose-your-phone.md)
-- [Everyone Thought Someone Else Was Handling Cybersecurity](small-business-tips/everyone-thought-someone-else-was-handling-cybersecurity.md)
-- [Your Former Employee May Still Have the Keys](small-business-tips/your-former-employee-may-still-have-the-keys.md)
+## What You’ll Find Here
+
+* Personal and family cybersecurity guidance
+* Small-business security practices
+* Passwords, passkeys, and multifactor authentication
+* Phishing, scams, and social engineering
+* Identity and access management
+* Account compromise and recovery
+* Device, network, and cloud security
+* Security tools and emerging technology
+* Practical explanations of cybersecurity concepts
+* Commentary on current security trends and changes
+
+## Blog Sections
+
+### 👤 Personal Cybersecurity
+
+Guidance for protecting personal accounts, family devices, privacy, finances, and everyday digital life.
+
+### 🏢 Small-Business Cybersecurity
+
+Practical security recommendations for small organizations that may not have dedicated IT or cybersecurity staff.
+
+### 💡 Cybersecurity Explained
+
+Clear explanations of security concepts, tools, risks, and terminology for readers without a technical background.
+
+### 📰 Security Watch
+
+Thoughts and analysis on evolving cybersecurity practices, identity technology, industry changes, and emerging threats.
+
+---
+*These articles are intended for general education and awareness. Security decisions should always be based on the specific risks, systems, and requirements of the individual or organization involved.*
+
+Written by Molly Ussery | Last updated: 8/5/2026
