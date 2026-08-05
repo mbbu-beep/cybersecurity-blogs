@@ -2,11 +2,9 @@
 
 ### Cybersecurity basics in plain English
 
-Cybersecurity does not have to be complicated.
+This section breaks common security topics into short, practical explanations for beginners & nontechnical users.
 
-This section breaks common security topics into short, practical explanations for beginners, nontechnical users, and anyone who just wants to know what they actually need to do.
-
-No long lectures. No assumption that you already understand the terminology. Just the basics, why they matter, and what action to take next.
+No long lectures. No assumption that you already understand the terminology. Just the basics, why they matter, and what action to take next🫱🏻‍🫲🏻
 
 ## What You’ll Find Here
 
