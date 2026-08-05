@@ -12,6 +12,7 @@ MFA requires more than one type of proof:
 - Something you *are*: a fingerprint or facial scan
 
 
+
 | MFA Method | P R O S | C O N S |
 |---|---|---|
 | **Text message codes** | Easy to use and widely supported | Phone numbers can be hijacked, and messages may be intercepted |
@@ -33,30 +34,32 @@ People lose phones, change numbers, replace devices, or accidentally delete auth
 
 > *Solution*: Use a primary method and a backup
 
-A practical setup could include:
+
+#### A practical setup could include:
 - Your current email and phone number
 - A passkey, security key, or authenticator app
 - Recovery codes stored somewhere secure
 
-### Did you know?
+##### Did you know that you can add passkeys to your password manager? Simple! 
 
-Did you know that you can add passkeys to your password manager? Simple!
 
-> [!IMPORTANT]
-## What You Can Do Now 
+
+# What You Can Do Now
+
 - Implement a password manager to ensure all passwords are unique and random
 - Turn on MFA for your email, financial, social media, and work accounts.
 - Choose an authenticator app, passkey, or security key when available.
 - Add at least one secure backup method.
+- Save your recovery codes somewhere safe and separate from the account. 
 
-Save your recovery codes somewhere safe and separate from the account. 
-
-> Do not wait until an account is compromised to find out whether your recovery options work.
+##### Do not wait until an account is compromised to find out whether your recovery options work.
  
  
  
  
  
 ### About This Article
+
 This article is for general educational purposes. Security features and recommendations may change over time.
+
 *Written by Molly Ussery | Last updated: 8/5/2026*
