@@ -4,9 +4,9 @@
 
 Cybersecurity affects nearly every part of modern life, from the accounts we use every day to the systems businesses rely on to operate.
 
-This repository contains approachable articles about protecting accounts, devices, data, and organizations without relying on unnecessary technical jargon or fear-based messaging.
+This repository contains approachable articles about protecting accounts, devices, data, and organizations.
 
-The goal is to make cybersecurity easier to understand, easier to apply, and more realistic for people who may not have a dedicated security team.
+The goal is to make cybersecurity easier to understand, easier to apply, and more realistic for all.
 
 ## What You’ll Find Here
 
