@@ -13,7 +13,7 @@ Most people imagine a cyberattack as stolen passwords, leaked Social Security nu
 > To reduce the risk of compromise, the FBI and EPA recommend removing PLCs from direct internet exposure via secure gateway and firewalls, setting up strong, unique passwords, and utilizing an access control list (ACL) to allow only authorized communication between expected control system devices.
 
 ## 🚩Report It!
-If you or someone you know has sustained similar OT outages, please contact your local FBI field office and file a complaint with the [Internet Crime Complaint Center](https://www.ic3.gov) at ic3.gov. Additionally, you can contact CISA via CISA’s 24/7 Operations Center at contact@cisa.dhs.gov or 1-844-Say-CISA (1-844-729-2472). Be sure to include as much information as possible:
+If you or someone you know has sustained similar OT outages, please contact your local FBI field office and file a complaint with the [Internet Crime Complaint Center](https://www.ic3.gov). Additionally, you can contact CISA via CISA’s 24/7 Operations Center at contact@cisa.dhs.gov or 1-844-Say-CISA (1-844-729-2472). Be sure to include as much information as possible:
 - Model numbers, serial numbers, and IP addresses of PLCs connected to the network
 - Unusual IP addresses observed on networks connected to PLCs
 
