@@ -1,14 +1,8 @@
 # Stop Memorizing Passwords: Use a Password Manager
 
-The advice to use a strong, unique password for every account is correct.
-
-**It is also unrealistic to expect someone to memorize dozens of them.**
+The advice to use a strong, unique password for every account is correct. However, it is unrealistic to manage dozens of them.
 
 That is why people fall into familiar habits of reusing the same password, saving passwords in notes or messages, or choosing passwords that are easy to remember and easy to guess.
-
-> The problem is not that you need a better memory.
-> The problem is that your memory should not be responsible for protecting every account you own.
-
 
 ## One Simple Goal
 
