@@ -88,4 +88,4 @@ The goal is to stop one weak, guessed, or reused password from exposing several 
 Written by Molly Ussery | Last updated: 8/5/2026
 
 
-🔑 **Quick Links** *| [Senior Project Demo](https://github.com/mbbu-beep/splunk-snort-soc-lab) | [Cybersecurity UNLOCKED](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/cybersecurity-unlocked) | [Personal Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/personal-cybersecurity) | [Business Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/small-business-security) |* 🔒
+🔑 **Quick Links** *| [Senior Project Demo](https://github.com/mbbu-beep/splunk-snort-soc-lab/blob/main/documentation/video-demo.md) | [Cybersecurity UNLOCKED](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/cybersecurity-unlocked) | [Personal Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/personal-cybersecurity) | [Business Cybersecurity](https://github.com/mbbu-beep/cybersecurity-blogs/tree/main/small-business-security) | [Security Watch](../security-watch/README.md) |* 🔒
