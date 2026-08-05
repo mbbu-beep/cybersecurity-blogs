@@ -1,4 +1,11 @@
 # Why Everyone Needs a Password Manager
+<table>
+  <tr>
+    <td><strong>TL;DR:</strong></td>
+    <td>A password manager creates and remembers strong, unique passwords so you do not have to. Protect it with one strong master password and multifactor authentication.</td>
+  </tr>
+</table>
+
 
 Most people have too many accounts to remember a different strong password for each one.
 
