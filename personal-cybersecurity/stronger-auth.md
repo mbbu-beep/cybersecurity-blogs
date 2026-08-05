@@ -25,7 +25,7 @@ For a small business, that can become a serious problem quickly—especially whe
 
 ## One Simple Goal
 
-> [!TIP]
+> [!WARNING]
 > Make sure you have **one tested backup way into every critical account**.
 
 Start with your five most important accounts:
