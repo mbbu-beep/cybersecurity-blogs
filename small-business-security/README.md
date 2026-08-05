@@ -8,13 +8,6 @@ This section focuses on realistic ways to protect business accounts, devices, em
 
 ## What You’ll Find Here
 
-- Account and access management
-- Employee onboarding and offboarding
-- Password managers and MFA
-- Phishing and security awareness
-- Microsoft 365 and cloud security
-- Incident response planning
-- Vendor and third-party risk
-- Security policies and documentation
-- Cyber insurance readiness
-- Practical controls for small teams
+- [Rule #1: Implement a Password Manager](rule-number-one.md)
+- [Everyone Thought Someone Else Was Handling Cybersecurity](who-me.md)
+- [Your Former Employee May Still Have the Keys](your-former-emp.md)
