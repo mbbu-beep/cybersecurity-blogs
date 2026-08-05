@@ -1,8 +1,16 @@
 # Passkeys Are Becoming the Default
 
+<table>
+  <tr>
+    <td><strong>TL;DR:</strong></td>
+    <td>Passkeys are becoming a common replacement for passwords because they are easier to use and harder to steal through phishing. Before setting one up, know where it will be stored and how you would recover the account if you lose access to your device.</td>
+  </tr>
+</table>
+
+
 Starting **September 1, 2026**, Microsoft will **make passkeys the default authentication experience** for many Microsoft Entra users who currently rely on text messages or voice calls for verification.
 
-[Click here to read the announcement from Microsoft](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-sms-voice-retirement).
+> [Click here to read the announcement from Microsoft](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-sms-voice-retirement)
 
 ## What Is a Passkey? 
 
