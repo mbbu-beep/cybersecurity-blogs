@@ -31,7 +31,7 @@ That master passphrase should:
 - Never be used on another account
 - Be memorable to you but difficult for someone else to guess
 
-[Turn on multifactor authentication](personal-cybersecurity/mfa-is-not-optional.md) for your password manager and securely save any recovery information it provides.
+[Turn on multifactor authentication](https://github.com/mbbu-beep/cybersecurity-blogs/blob/main/personal-cybersecurity/mfa-is-not-optional.md) for your password manager and securely save any recovery information it provides.
 
 > [!IMPORTANT]
 > Do not store your only recovery method somewhere that you cannot access without first opening the password manager.
