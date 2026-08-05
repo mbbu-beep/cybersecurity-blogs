@@ -1,11 +1,12 @@
-
 # Stronger Authentication Is Great... Until You Lose Your Phone
+<table>
+  <tr>
+    <td><strong>TL;DR:</strong></td>
+    <td>Stronger authentication protects your accounts, but it can also lock you out if your phone is lost, broken, or replaced. Set up backup methods and save recovery codes *before* you need them.</td>
+  </tr>
+</table>
 
-Most cybersecurity advice stops at: 
-
-**Turn on MFA.**
-
-That is good advice—but it leaves out one important question:
+Most people find the answer to this question the hard way:
 
 > **What happens if the phone holding your authentication method is lost, broken, replaced, or reset?**
 
@@ -18,15 +19,10 @@ A user may assume everything will restore on a new phone, only to discover that 
 - Banking
 - Microsoft 365
 
-is still tied to the old one.
-
-For a small business, that can become a serious problem quickly—especially when there is no dedicated IT department.
+is still tied to the old one. 
 
 
-## One Simple Goal
-
-> [!WARNING]
-> Make sure you have **one tested backup way into every critical account**.
+## One Simple Goal: Progress
 
 Start with your five most important accounts:
 
@@ -35,15 +31,7 @@ Start with your five most important accounts:
 3. Test it **before** replacing or wiping your current phone.
 4. Store recovery information somewhere secure.
 
----
 
-## The Key Takeaway
-
-The goal is not to weaken authentication.
-
-It is to avoid making **one phone the single point of failure**.
-
-**Good cybersecurity is not only about keeping unauthorized people out. It is also about making sure authorized people can get back in securely.**
 
 ---
 ### About This Article
