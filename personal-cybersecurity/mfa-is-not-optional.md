@@ -60,9 +60,9 @@ People lose phones, change numbers, replace devices, or accidentally delete auth
  
 ### About This Article
 
-This article is for general educational purposes. Security features and recommendations may change over time.
+*This article is for general educational purposes. Security features and recommendations may change over time.*
 
-*Written by Molly Ussery | Last updated: 8/5/2026*
+Written by Molly Ussery | Last updated: 8/5/2026
 
 ---
 
