@@ -8,4 +8,4 @@ No long lectures. No assumption that you already understand the terminology. Jus
 
 ## What You’ll Find Here
 
-- [Why Everyone Needs a Password Manager](cybersecurity-unlocked/why-everyone-needs.md)
+- [Why Everyone Needs a Password Manager](why-everyone-needs.md)
