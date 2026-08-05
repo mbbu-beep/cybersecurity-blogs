@@ -26,5 +26,8 @@ The ability to switch to manual operation became an important safeguard. The FBI
 
 ---
 ### Sources and More Reading:
+- EPA: [Cybersecurity for the Water Sector](https://www.epa.gov/cyberwater)
 - Reuters: [US cyber defense agency warns hackers are increasingly targeting water systems](https://www.reuters.com/world/us-cyber-defense-agency-warns-increased-hacker-targeting-water-utilities-2026-07-30/)
 - AP News: [Cyberattacks on Minnesota water systems investigated as officials warn about Iranian hackers](https://apnews.com/article/cyberattack-minnesota-water-systems-5bb1dcbaab8e3231889700c38a21e8ea)
+- MPR News: [Cyberattack targets Minnesota cities' water systems](https://www.mprnews.org/story/2026/07/28/30-minnesota-municipal-water-systems-targeted-cyberattack)
+  
