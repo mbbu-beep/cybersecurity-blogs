@@ -12,3 +12,4 @@ This section looks at those changes from a practical perspective to determine wh
 ## What You’ll Find Here
 
 - [Passkeys Are Becoming the Default](passkeys-will-be-new-norm.md)
+- [When Hackers Target the Water Supply](hack-the-water.md)
